@@ -14,6 +14,11 @@
       "nombre": "Parche_Test2",
       "tipo": "parche",
       "url": "https://github.com/EpsUpdater/Parche_Test2"
+    },
+    {
+      "nombre": "Parche_Test3",
+      "tipo": "parche",
+      "url": "https://github.com/EpsUpdater/Parche_Test3"
     }
   ]
 }
