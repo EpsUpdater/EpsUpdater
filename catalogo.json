@@ -1,9 +1,9 @@
 {
   "mods": [
     {
-      "nombre": "Parche de Prueba",
+      "nombre": "Parche_Test1",
       "tipo": "parche",
-      "url": "https://github.com/EpsUpdater/parche-pandaren/releases"
+      "url": "https://github.com/EpsUpdater/Parche_Test1"
     }
   ]
 }
