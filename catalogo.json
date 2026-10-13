@@ -4,11 +4,6 @@
       "nombre": "Parche_Test1",
       "tipo": "parche",
       "url": "https://github.com/EpsUpdater/Parche_Test1"
-    },
-    {
-      "nombre": "Hogwarts",
-      "tipo": "parche",
-      "url": "https://github.com/EpsUpdater/Parche_Hogwarts"
     }
   ]
 }
