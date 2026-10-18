@@ -16,6 +16,16 @@
       "tipo": "parche",
       "url": "https://github.com/EpsUpdater/Parche_Enosi",
 	  "codigo": "ENOSI"
+    },
+	{
+      "nombre": "GMTools",
+      "tipo": "addon",
+      "url": "https://github.com/EpsUpdater/Addon_GMTools"
+    },
+	{
+      "nombre": "NPCTinker",
+      "tipo": "addon",
+      "url": "https://github.com/EpsUpdater/Addon_NPCTinker"
     }
   ]
 }
