@@ -10,6 +10,12 @@
       "tipo": "parche",
       "url": "https://github.com/EpsUpdater/Parche_Alterac",
 	  "codigo": "ALTERAC"
+    },
+	{
+      "nombre": "Enosi",
+      "tipo": "parche",
+      "url": "https://github.com/EpsUpdater/Parche_Enosi",
+	  "codigo": "ENOSI"
     }
   ]
 }
