@@ -1,25 +1,15 @@
 {
   "mods": [
     {
-      "nombre": "Parche_Test1",
-      "tipo": "parche",
-      "url": "https://github.com/EpsUpdater/Parche_Test1"
-    },
-    {
-      "nombre": "Hogwarts",
-      "tipo": "parche",
-      "url": "https://github.com/EpsUpdater/Parche_Hogwarts"
-    },
-    {
       "nombre": "La_Ruta_Parche",
       "tipo": "parche",
       "url": "https://github.com/EpsUpdater/Parche_La_Ruta"
     },
     {
-      "nombre": "Parche_Test3",
+      "nombre": "Alterac",
       "tipo": "parche",
-      "url": "https://github.com/EpsUpdater/Parche_Test3",
-	  "codigo": "TEST3"
+      "url": "https://github.com/EpsUpdater/Parche_Alterac",
+	  "codigo": "ALTERAC"
     }
   ]
 }
