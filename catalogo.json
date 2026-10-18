@@ -18,7 +18,8 @@
     {
       "nombre": "Parche_Test3",
       "tipo": "parche",
-      "url": "https://github.com/EpsUpdater/Parche_Test3"
+      "url": "https://github.com/EpsUpdater/Parche_Test3",
+	  "codigo": "TEST3"
     }
   ]
 }
